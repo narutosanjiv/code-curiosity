@@ -24,7 +24,7 @@ gem 'bootstrap-datepicker-rails'
 gem 'font-awesome-rails'
 gem 'simple_form', '~> 3.2.1'
 gem 'omniauth-github', '~> 1.1.2'
-gem 'sidekiq', '~> 4.0'
+gem 'sidekiq', '~> 4.2', '>= 4.2.0'
 gem 'dotenv-rails'
 gem 'git', '~> 1.3'
 gem 'rugged', git: 'git://github.com/libgit2/rugged.git', submodules: true
